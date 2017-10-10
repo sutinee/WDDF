@@ -1,0 +1,9 @@
+net\thucydides\showcase\cucumber\pages\BitHomePage.class
+net\thucydides\showcase\cucumber\pages\HomePage.class
+net\thucydides\showcase\cucumber\steps\TestSteps_StartNewClient.class
+net\thucydides\showcase\cucumber\BitRunner.class
+net\thucydides\showcase\cucumber\steps\serenity\BitSteps.class
+net\thucydides\showcase\cucumber\pages\BitTabResourcePaths.class
+net\thucydides\showcase\cucumber\pages\BitTabClientPage.class
+net\thucydides\showcase\cucumber\pages\BitTabDatabasePage.class
+net\thucydides\showcase\cucumber\pages\BitTabDocTypesPage.class
