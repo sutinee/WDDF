@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="SuiteVision">
+
+<!-- If add more test cases In this suite, You need to add them as bellow. -->
+
+<test name="SuiteVisionCase1_AFS">
+    <classes>
+        <class name="com.stta.SuiteVision.SuiteVisionCase1_AFS" ></class>  
+    </classes>
+</test>
+
+<test name="SuiteVisionCase2_MFS">
+    <classes>
+        <class name="com.stta.SuiteVision.SuiteVisionCase2_MFS" ></class>  
+    </classes>
+</test>
+
+<test name="SuiteVisionCase3_WaddellReed">
+    <classes>
+        <class name="com.stta.SuiteVision.SuiteVisionCase3_WaddellReed" ></class>  
+    </classes>
+</test>
+
+</suite>

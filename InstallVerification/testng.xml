@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Find More Tutorials On WebDriver at -> http://software-testing-tutorials-automation.blogspot.com -->
+<suite name="Configuration - not in use">
+	
+	<listeners> 
+		<listener class-name="com.stta.utility.ScreenshotUtility"></listener> 
+ 	</listeners>
+ 	
+
+	<suite-files>
+<!-- If you have more test suites, Please add them bellow. -->
+   		<suite-file path="./SuiteCSR.xml" />
+   		<suite-file path="./SuiteECC.xml" />
+   		<suite-file path="./SuiteFanWeb.xml" />
+   		<suite-file path="./SuiteVision.xml" />
+   		
+   
+  </suite-files>
+
+
+  
+ </suite>
+ 

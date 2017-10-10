@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="SuiteFanWeb">
+
+<!-- If add more test cases In this suite, You need to add them as bellow. -->
+
+<test name="SuiteFanWebCase1_Royce">
+    <classes>
+        <class name="com.stta.SuiteFanWeb.SuiteFanWebCase1_Royce" ></class>  
+    </classes>
+</test>
+
+
+</suite>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="SuiteCSR">
+
+<!-- If add more test cases In this suite, You need to add them as bellow. -->
+
+<test name="SuiteCSRCase1_Directv">
+    <classes>
+        <class name="com.stta.SuiteCSR.SuiteCSRCase1_Directv" ></class>  
+    </classes>
+</test>
+
+<test name="SuiteCSRCase2_Allianz">
+    <classes>
+        <class name="com.stta.SuiteCSR.SuiteCSRCase2_Allianz" ></class>  
+    </classes>
+</test>
+
+<test name="SuiteCSRCase3_nTelos">
+    <classes>
+        <class name="com.stta.SuiteCSR.SuiteCSRCase3_nTelos" ></class>  
+    </classes>
+</test>
+
+<test name="SuiteCSRCase4_Toyota">
+    <classes>
+        <class name="com.stta.SuiteCSR.SuiteCSRCase4_Toyota" ></class>  
+    </classes>
+</test>
+
+<test name="SuiteCSRCase5_XcelEnergy">
+    <classes>
+        <class name="com.stta.SuiteCSR.SuiteCSRCase5_XcelEnergy" ></class>  
+    </classes>
+</test>
+
+<test name="SuiteCSRCase6_Barclay">
+    <classes>
+        <class name="com.stta.SuiteCSR.SuiteCSRCase6_Barclay" ></class>  
+    </classes>
+</test>
+
+</suite>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="SuiteECC">
+
+<!-- If add more test cases In this suite, You need to add them as bellow. -->
+
+<test name="SuiteECCCase1_AFS">
+    <classes>
+        <class name="com.stta.SuiteECC.SuiteECCCase1_AFS" ></class>  
+    </classes>
+</test>
+<test name="SuiteECCCase2_AFS2">
+    <classes>
+        <class name="com.stta.SuiteECC.SuiteECCCase2_AFS2" ></class>  
+    </classes>
+</test>
+<test name="SuiteECCCase3_AFS_T">
+    <classes>
+        <class name="com.stta.SuiteECC.SuiteECCCase3_AFS_T" ></class>  
+    </classes>
+</test>
+<!-- Yvette: There is a project in NRS 65543 to decommission H&R Block/Ameriprise. RE: Test Result PriorDay Testing 19Sep2017 -->
+<!--test name="SuiteECCCase4_Ameriprise">
+
+    <classes>
+        <class name="com.stta.SuiteECC.SuiteECCCase4_Ameriprise" ></class>  
+    </classes>
+</test-->
+<test name="SuiteECCCase5_FranklinTempleton">
+    <classes>
+        <class name="com.stta.SuiteECC.SuiteECCCase5_FranklinTempleton" ></class>  
+    </classes>
+</test>
+<test name="SuiteECCCase6_WaddellReed">
+    <classes>
+        <class name="com.stta.SuiteECC.SuiteECCCase6_WaddellReed" ></class>  
+    </classes>
+</test>
+<test name="SuiteECCCase7_Neuberger">
+    <classes>
+        <class name="com.stta.SuiteECC.SuiteECCCase7_Neuberger"></class>  
+    </classes>
+</test>
+<test name="SuiteECCCase8_Neuberger2">
+    <classes>
+        <class name="com.stta.SuiteECC.SuiteECCCase8_Neuberger2"></class>  
+    </classes>
+</test>
+<test name="SuiteECCCase9_TheHartford">
+    <classes>
+        <class name="com.stta.SuiteECC.SuiteECCCase9_TheHartford"></class>  
+    </classes>
+</test>
+<test name="SuiteECCCase10_Golden1">
+    <classes>
+        <class name="com.stta.SuiteECC.SuiteECCCase10_Golden1"></class>  
+    </classes>
+</test>
+<test name="SuiteECCCase11_ACI_EPSIIAPDF">
+    <classes>
+        <class name="com.stta.SuiteECC.SuiteECCCase11_ACI_EPSIIAPDF"></class>  
+    </classes>
+</test>
+<test name="SuiteECCCase12_ACI">
+    <classes>
+        <class name="com.stta.SuiteECC.SuiteECCCase12_ACI"></class>  
+    </classes>
+</test>
+<test name="SuiteECCCase13_MFS">
+    <classes>
+        <class name="com.stta.SuiteECC.SuiteECCCase13_MFS"></class>  
+    </classes>
+</test>
+<test name="SuiteECCCase14_Ariel">
+    <classes>
+        <class name="com.stta.SuiteECC.SuiteECCCase14_Ariel"></class>  
+    </classes>
+</test>
+<test name="SuiteECCCase15_Columbia">
+    <classes>
+        <class name="com.stta.SuiteECC.SuiteECCCase15_Columbia"></class>  
+    </classes>
+</test>
+<test name="SuiteECCCase16_Calvert">
+    <classes>
+        <class name="com.stta.SuiteECC.SuiteECCCase16_Calvert" ></class>  
+    </classes>
+</test>
+</suite>
+

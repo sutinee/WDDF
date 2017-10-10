@@ -1,0 +1,384 @@
+2017-10-04 13:59:23,022 - rootLogger - INFO - All Excel Files Initialised successfully.
+2017-10-04 13:59:23,022 - rootLogger - INFO - Param.properties file loaded successfully.
+2017-10-04 13:59:23,022 - rootLogger - INFO - Objects.properties file loaded successfully.
+2017-10-04 13:59:23,022 - rootLogger - INFO - Execution started for SuitCSRBase.
+2017-10-04 13:59:23,053 - rootLogger - INFO - All Excel Files Initialised successfully.
+2017-10-04 13:59:23,053 - rootLogger - INFO - Param.properties file loaded successfully.
+2017-10-04 13:59:23,053 - rootLogger - INFO - Objects.properties file loaded successfully.
+2017-10-04 13:59:23,053 - rootLogger - INFO - SuiteCSRCase1_Directv : Execution started.
+2017-10-04 13:59:25,626 - rootLogger - INFO - Chrome Driver Instance loaded successfully.
+2017-10-04 13:59:38,371 - rootLogger - INFO - Logged in successfully
+2017-10-04 13:59:49,065 - rootLogger - INFO - Emulated User successfully
+2017-10-04 13:59:51,663 - rootLogger - INFO - Selected doctype successfully
+2017-10-04 14:00:52,511 - rootLogger - INFO - SuiteCSRCase1_Directv : Reporting test data set line 1 as PASS In excel.
+2017-10-04 14:00:53,650 - rootLogger - INFO - SuiteCSRCase1_Directv : Reporting test case as PASS In excel.
+2017-10-04 14:00:53,681 - rootLogger - INFO - All Excel Files Initialised successfully.
+2017-10-04 14:00:53,681 - rootLogger - INFO - Param.properties file loaded successfully.
+2017-10-04 14:00:53,681 - rootLogger - INFO - Objects.properties file loaded successfully.
+2017-10-04 14:00:53,681 - rootLogger - INFO - SuiteCSRCase2_Allianz : Execution started.
+2017-10-04 14:00:55,867 - rootLogger - INFO - Chrome Driver Instance loaded successfully.
+2017-10-04 14:01:14,061 - rootLogger - INFO - Emulated User successfully
+2017-10-04 14:01:18,932 - rootLogger - INFO - Selected doctype successfully
+2017-10-04 14:01:21,726 - rootLogger - INFO - Tested Col 'VIEW PAGE(s)#' is correct, containing 'pgs'
+2017-10-04 14:01:21,757 - rootLogger - INFO - Tested Col 'DATE#' is correct, containing '-'
+2017-10-04 14:01:33,558 - rootLogger - INFO - PDF can be opened. As expected
+2017-10-04 14:01:33,924 - rootLogger - INFO - 
+Screenshot is captured and stored in yourC:\InstallVerificationReports\04-Oct-2017__01_59_22PM_PRODReport\screenshots\SuiteCSRCase2_Allianz_1_ViewPDF_04-Oct-2017__02_01_33PM.jpg
+2017-10-04 14:01:33,924 - rootLogger - INFO - PDF's content is correct. As expected
+2017-10-04 14:01:35,522 - rootLogger - INFO - SuiteCSRCase2_Allianz : Reporting test data set line 1 as PASS In excel.
+2017-10-04 14:01:36,683 - rootLogger - INFO - SuiteCSRCase2_Allianz : Reporting test case as PASS In excel.
+2017-10-04 14:01:36,699 - rootLogger - INFO - All Excel Files Initialised successfully.
+2017-10-04 14:01:36,699 - rootLogger - INFO - Param.properties file loaded successfully.
+2017-10-04 14:01:36,699 - rootLogger - INFO - Objects.properties file loaded successfully.
+2017-10-04 14:01:36,699 - rootLogger - INFO - SuiteCSRCase3_nTelos : Execution started.
+2017-10-04 14:01:38,932 - rootLogger - INFO - Chrome Driver Instance loaded successfully.
+2017-10-04 14:02:05,585 - rootLogger - INFO - Emulated User successfully
+2017-10-04 14:02:09,100 - rootLogger - INFO - Selected doctype successfully
+2017-10-04 14:02:13,201 - rootLogger - INFO - Tested Col 'ACCOUNT#' is correct, containing '105586280'
+2017-10-04 14:02:13,248 - rootLogger - INFO - Tested Col 'ACCOUNT NAME#' is correct, containing 'SCOTT ABSHIRE'
+2017-10-04 14:02:13,285 - rootLogger - INFO - Tested Col 'CORP#' is correct, containing '91051'
+2017-10-04 14:02:25,045 - rootLogger - INFO - PDF can be opened. As expected
+2017-10-04 14:02:25,471 - rootLogger - INFO - 
+Screenshot is captured and stored in yourC:\InstallVerificationReports\04-Oct-2017__01_59_22PM_PRODReport\screenshots\SuiteCSRCase3_nTelos_1_ViewPDF_04-Oct-2017__02_02_25PM.jpg
+2017-10-04 14:02:25,471 - rootLogger - INFO - PDF's content is correct. As expected
+2017-10-04 14:02:28,911 - rootLogger - INFO - SuiteCSRCase3_nTelos : Reporting test data set line 1 as PASS In excel.
+2017-10-04 14:02:30,071 - rootLogger - INFO - SuiteCSRCase3_nTelos : Reporting test case as PASS In excel.
+2017-10-04 14:02:30,086 - rootLogger - INFO - All Excel Files Initialised successfully.
+2017-10-04 14:02:30,086 - rootLogger - INFO - Param.properties file loaded successfully.
+2017-10-04 14:02:30,086 - rootLogger - INFO - Objects.properties file loaded successfully.
+2017-10-04 14:02:30,086 - rootLogger - INFO - SuiteCSRCase4_Toyota : Execution started.
+2017-10-04 14:02:32,344 - rootLogger - INFO - Chrome Driver Instance loaded successfully.
+2017-10-04 14:02:46,701 - rootLogger - INFO - Emulated User successfully
+2017-10-04 14:02:47,090 - rootLogger - INFO - Selected doctype successfully
+2017-10-04 14:02:48,814 - rootLogger - INFO - Tested Col 'ACCOUNT#' is correct: '030612CU935'
+2017-10-04 14:02:48,845 - rootLogger - INFO - Tested Col 'ACCOUNT NAME' is correct: 'ALAN F SMITH'
+2017-10-04 14:03:00,634 - rootLogger - INFO - PDF can be opened. As expected
+2017-10-04 14:03:01,027 - rootLogger - INFO - 
+Screenshot is captured and stored in yourC:\InstallVerificationReports\04-Oct-2017__01_59_22PM_PRODReport\screenshots\SuiteCSRCase4_Toyota_1_ViewPDF_04-Oct-2017__02_03_01PM.jpg
+2017-10-04 14:03:01,027 - rootLogger - INFO - PDF's content is correct. As expected
+2017-10-04 14:03:02,802 - rootLogger - INFO - SuiteCSRCase4_Toyota : Reporting test data set line 1 as PASS In excel.
+2017-10-04 14:03:03,990 - rootLogger - INFO - SuiteCSRCase4_Toyota : Reporting test case as PASS In excel.
+2017-10-04 14:03:04,006 - rootLogger - INFO - All Excel Files Initialised successfully.
+2017-10-04 14:03:04,006 - rootLogger - INFO - Param.properties file loaded successfully.
+2017-10-04 14:03:04,006 - rootLogger - INFO - Objects.properties file loaded successfully.
+2017-10-04 14:03:04,006 - rootLogger - INFO - SuiteCSRCase5_XcelEnergy : Execution started.
+2017-10-04 14:03:06,184 - rootLogger - INFO - Chrome Driver Instance loaded successfully.
+2017-10-04 14:03:28,541 - rootLogger - INFO - 
+Screenshot is captured and stored in yourC:\InstallVerificationReports\04-Oct-2017__01_59_22PM_PRODReport\screenshots\SuiteCSRCase5_XcelEnergy_1_SeamlessLogin_04-Oct-2017__02_03_28PM.jpg
+2017-10-04 14:03:28,541 - rootLogger - INFO - Search page displays for seamless login
+2017-10-04 14:03:28,541 - rootLogger - INFO - SuiteCSRCase5_XcelEnergy : Reporting test data set line 1 as PASS In excel.
+2017-10-04 14:03:29,635 - rootLogger - INFO - SuiteCSRCase5_XcelEnergy : Reporting test case as PASS In excel.
+2017-10-04 14:03:29,651 - rootLogger - INFO - All Excel Files Initialised successfully.
+2017-10-04 14:03:29,651 - rootLogger - INFO - Param.properties file loaded successfully.
+2017-10-04 14:03:29,651 - rootLogger - INFO - Objects.properties file loaded successfully.
+2017-10-04 14:03:29,651 - rootLogger - INFO - SuiteCSRCase6_Barclay : Execution started.
+2017-10-04 14:03:31,826 - rootLogger - INFO - Chrome Driver Instance loaded successfully.
+2017-10-04 14:03:48,598 - rootLogger - INFO - Emulated User successfully
+2017-10-04 14:03:51,132 - rootLogger - INFO - Selected doctype successfully
+2017-10-04 14:03:54,083 - rootLogger - INFO - Tested Col 'AUDIT REPORT' is correct: 'View PDF'
+2017-10-04 14:03:54,167 - rootLogger - INFO - Clicked BATCH ID
+2017-10-04 14:03:55,402 - rootLogger - INFO - Clicked Sample Document
+2017-10-04 14:04:07,102 - rootLogger - INFO - PDF can be opened. As expected
+2017-10-04 14:04:07,466 - rootLogger - INFO - 
+Screenshot is captured and stored in yourC:\InstallVerificationReports\04-Oct-2017__01_59_22PM_PRODReport\screenshots\SuiteCSRCase6_Barclay_1_ViewPDF_04-Oct-2017__02_04_07PM.jpg
+2017-10-04 14:04:07,466 - rootLogger - INFO - PDF's content is correct. As expected
+2017-10-04 14:04:09,027 - rootLogger - INFO - SuiteCSRCase6_Barclay : Reporting test data set line 1 as PASS In excel.
+2017-10-04 14:04:10,210 - rootLogger - INFO - SuiteCSRCase6_Barclay : Reporting test case as PASS In excel.
+2017-10-04 14:04:10,226 - rootLogger - INFO - All Excel Files Initialised successfully.
+2017-10-04 14:04:10,226 - rootLogger - INFO - Param.properties file loaded successfully.
+2017-10-04 14:04:10,226 - rootLogger - INFO - Objects.properties file loaded successfully.
+2017-10-04 14:04:10,226 - rootLogger - INFO - Execution started for SuitCSRBase.
+2017-10-04 14:04:10,226 - rootLogger - INFO - All Excel Files Initialised successfully.
+2017-10-04 14:04:10,226 - rootLogger - INFO - Param.properties file loaded successfully.
+2017-10-04 14:04:10,226 - rootLogger - INFO - Objects.properties file loaded successfully.
+2017-10-04 14:04:10,226 - rootLogger - INFO - SuiteECCCase1_AFS : Execution started.
+2017-10-04 14:04:12,450 - rootLogger - INFO - Chrome Driver Instance loaded successfully.
+2017-10-04 14:04:20,785 - rootLogger - INFO - Logged in
+2017-10-04 14:04:21,604 - rootLogger - INFO - Selected Statement
+2017-10-04 14:04:22,115 - rootLogger - INFO - Selected 'View Statements' from the 'CEVP PDF FEATURES'
+2017-10-04 14:04:22,294 - rootLogger - INFO - SSN Entered. Radial button is Enabled Only
+2017-10-04 14:04:26,110 - rootLogger - INFO - Statement Lists are displayed. Click on one of the statement
+2017-10-04 14:04:38,923 - rootLogger - INFO - 
+Screenshot is captured and stored in yourC:\InstallVerificationReports\04-Oct-2017__01_59_22PM_PRODReport\screenshots\SuiteECCCase1_AFS_1_ViewStatement_04-Oct-2017__02_04_38PM.jpg
+2017-10-04 14:04:38,923 - rootLogger - INFO - PDF can be opened.
+2017-10-04 14:04:52,465 - rootLogger - INFO - Insert can be opened successufully
+2017-10-04 14:04:53,015 - rootLogger - INFO - PDF can be opened. As expected
+2017-10-04 14:04:53,455 - rootLogger - INFO - 
+Screenshot is captured and stored in yourC:\InstallVerificationReports\04-Oct-2017__01_59_22PM_PRODReport\screenshots\SuiteECCCase1_AFS_2_ViewInsert_04-Oct-2017__02_04_53PM.jpg
+2017-10-04 14:04:53,455 - rootLogger - INFO - PDF's content is correct. As expected
+2017-10-04 14:04:53,455 - rootLogger - INFO - SuiteECCCase1_AFS : Reporting test data set line 1 as PASS In excel.
+2017-10-04 14:04:54,515 - rootLogger - INFO - SuiteECCCase1_AFS : Reporting test case as PASS In excel.
+2017-10-04 14:04:54,531 - rootLogger - INFO - All Excel Files Initialised successfully.
+2017-10-04 14:04:54,531 - rootLogger - INFO - Param.properties file loaded successfully.
+2017-10-04 14:04:54,531 - rootLogger - INFO - Objects.properties file loaded successfully.
+2017-10-04 14:04:54,531 - rootLogger - INFO - SuiteECCCase2_AFS2 : Execution started.
+2017-10-04 14:04:57,151 - rootLogger - INFO - Chrome Driver Instance loaded successfully.
+2017-10-04 14:05:04,880 - rootLogger - INFO - Logged in
+2017-10-04 14:05:05,805 - rootLogger - INFO - Selected Statement
+2017-10-04 14:05:06,275 - rootLogger - INFO - Selected 'View Statements' from the 'PDF FEATURES'
+2017-10-04 14:05:06,490 - rootLogger - INFO - SSN Entered. Radial button is Enabled Only
+2017-10-04 14:05:10,470 - rootLogger - INFO - Statement Lists are displayed. Click on one of the statement
+2017-10-04 14:05:28,659 - rootLogger - INFO - PDF can be opened. As expected
+2017-10-04 14:05:29,022 - rootLogger - INFO - 
+Screenshot is captured and stored in yourC:\InstallVerificationReports\04-Oct-2017__01_59_22PM_PRODReport\screenshots\SuiteECCCase2_AFS2_1_ViewStatement_04-Oct-2017__02_05_29PM.jpg
+2017-10-04 14:05:29,022 - rootLogger - INFO - PDF's content is correct. As expected
+2017-10-04 14:05:29,022 - rootLogger - INFO - SuiteECCCase2_AFS2 : Reporting test data set line 1 as PASS In excel.
+2017-10-04 14:05:30,145 - rootLogger - INFO - SuiteECCCase2_AFS2 : Reporting test case as PASS In excel.
+2017-10-04 14:05:30,160 - rootLogger - INFO - All Excel Files Initialised successfully.
+2017-10-04 14:05:30,160 - rootLogger - INFO - Param.properties file loaded successfully.
+2017-10-04 14:05:30,160 - rootLogger - INFO - Objects.properties file loaded successfully.
+2017-10-04 14:05:30,160 - rootLogger - INFO - SuiteECCCase3_AFS_T : Execution started.
+2017-10-04 14:05:32,595 - rootLogger - INFO - Chrome Driver Instance loaded successfully.
+2017-10-04 14:05:40,927 - rootLogger - INFO - Logged in
+2017-10-04 14:05:43,848 - rootLogger - INFO - Selected Menu Confirmations
+2017-10-04 14:06:29,844 - rootLogger - INFO - Selected 'View Emails'
+2017-10-04 14:06:29,974 - rootLogger - INFO - Tested Batch ID is FOUND
+2017-10-04 14:06:46,995 - rootLogger - INFO - Clicked Email Batch ID
+2017-10-04 14:06:46,995 - rootLogger - INFO - Email Batch can be opened successufully
+2017-10-04 14:06:47,500 - rootLogger - INFO - 
+Screenshot is captured and stored in yourC:\InstallVerificationReports\04-Oct-2017__01_59_22PM_PRODReport\screenshots\SuiteECCCase3_AFS_T_1_View EmailBatch_04-Oct-2017__02_06_47PM.jpg
+2017-10-04 14:06:47,500 - rootLogger - INFO - SuiteECCCase3_AFS_T : Reporting test data set line 1 as PASS In excel.
+2017-10-04 14:06:48,607 - rootLogger - INFO - SuiteECCCase3_AFS_T : Reporting test case as PASS In excel.
+2017-10-04 14:06:48,638 - rootLogger - INFO - All Excel Files Initialised successfully.
+2017-10-04 14:06:48,638 - rootLogger - INFO - Param.properties file loaded successfully.
+2017-10-04 14:06:48,638 - rootLogger - INFO - Objects.properties file loaded successfully.
+2017-10-04 14:06:48,638 - rootLogger - INFO - SuiteECCCase5_FranklinTempleton : Execution started.
+2017-10-04 14:06:51,786 - rootLogger - INFO - Chrome Driver Instance loaded successfully.
+2017-10-04 14:07:04,795 - rootLogger - INFO - Logged in
+2017-10-04 14:07:07,883 - rootLogger - INFO - Selected Statement
+2017-10-04 14:07:12,857 - rootLogger - INFO - Selected 'View Statements'
+2017-10-04 14:07:18,966 - rootLogger - INFO - Statement Lists are displayed. Click on one of the statement
+2017-10-04 14:07:31,841 - rootLogger - INFO - PDF can be opened. As expected
+2017-10-04 14:07:32,205 - rootLogger - INFO - 
+Screenshot is captured and stored in yourC:\InstallVerificationReports\04-Oct-2017__01_59_22PM_PRODReport\screenshots\SuiteECCCase5_FranklinTempleton_1_ViewStatement_04-Oct-2017__02_07_32PM.jpg
+2017-10-04 14:07:32,205 - rootLogger - INFO - PDF's content is correct. As expected
+2017-10-04 14:07:32,246 - rootLogger - INFO - Clicked browser Back.
+2017-10-04 14:07:32,335 - rootLogger - INFO - SuiteECCCase5_FranklinTempleton : Reporting test data set line 1 as PASS In excel.
+2017-10-04 14:07:33,487 - rootLogger - INFO - SuiteECCCase5_FranklinTempleton : Reporting test case as PASS In excel.
+2017-10-04 14:07:33,503 - rootLogger - INFO - All Excel Files Initialised successfully.
+2017-10-04 14:07:33,503 - rootLogger - INFO - Param.properties file loaded successfully.
+2017-10-04 14:07:33,503 - rootLogger - INFO - Objects.properties file loaded successfully.
+2017-10-04 14:07:33,503 - rootLogger - INFO - SuiteECCCase6_WaddellReed : Execution started.
+2017-10-04 14:07:35,661 - rootLogger - INFO - Chrome Driver Instance loaded successfully.
+2017-10-04 14:07:46,432 - rootLogger - INFO - Logged in
+2017-10-04 14:07:47,138 - rootLogger - INFO - Selected Statement (Older than September 20th 2016)
+2017-10-04 14:07:47,640 - rootLogger - INFO - Selected View Statement
+2017-10-04 14:07:47,928 - rootLogger - INFO - Entered SSN, Begin Date, End Date
+2017-10-04 14:07:54,483 - rootLogger - INFO - Statement found
+2017-10-04 14:08:11,671 - rootLogger - INFO - PDF can be opened. As expected
+2017-10-04 14:08:12,019 - rootLogger - INFO - 
+Screenshot is captured and stored in yourC:\InstallVerificationReports\04-Oct-2017__01_59_22PM_PRODReport\screenshots\SuiteECCCase6_WaddellReed_1_ViewStatement_04-Oct-2017__02_08_12PM.jpg
+2017-10-04 14:08:12,019 - rootLogger - INFO - PDF's content is correct. As expected
+2017-10-04 14:08:12,019 - rootLogger - INFO - SuiteECCCase6_WaddellReed : Reporting test data set line 1 as PASS In excel.
+2017-10-04 14:08:13,049 - rootLogger - INFO - SuiteECCCase6_WaddellReed : Reporting test case as PASS In excel.
+2017-10-04 14:08:13,064 - rootLogger - INFO - All Excel Files Initialised successfully.
+2017-10-04 14:08:13,064 - rootLogger - INFO - Param.properties file loaded successfully.
+2017-10-04 14:08:13,064 - rootLogger - INFO - Objects.properties file loaded successfully.
+2017-10-04 14:08:13,064 - rootLogger - INFO - SuiteECCCase7_Neuberger : Execution started.
+2017-10-04 14:08:15,273 - rootLogger - INFO - Chrome Driver Instance loaded successfully.
+2017-10-04 14:08:22,655 - rootLogger - INFO - Logged in
+2017-10-04 14:08:23,404 - rootLogger - INFO - Selected Statement (2007 to present)
+2017-10-04 14:08:28,260 - rootLogger - INFO - Selected 'View Statements'
+2017-10-04 14:08:28,719 - rootLogger - INFO - SSN Entered. Radial button is Enabled Only
+2017-10-04 14:08:38,493 - rootLogger - INFO - Statement Lists are displayed. Click on one of the statement
+2017-10-04 14:08:55,636 - rootLogger - INFO - PDF can be opened. As expected
+2017-10-04 14:08:55,999 - rootLogger - INFO - 
+Screenshot is captured and stored in yourC:\InstallVerificationReports\04-Oct-2017__01_59_22PM_PRODReport\screenshots\SuiteECCCase7_Neuberger_1_ViewStatement_04-Oct-2017__02_08_55PM.jpg
+2017-10-04 14:08:55,999 - rootLogger - INFO - PDF's content is correct. As expected
+2017-10-04 14:08:55,999 - rootLogger - INFO - SuiteECCCase7_Neuberger : Reporting test data set line 1 as PASS In excel.
+2017-10-04 14:08:57,045 - rootLogger - INFO - SuiteECCCase7_Neuberger : Reporting test case as PASS In excel.
+2017-10-04 14:08:57,060 - rootLogger - INFO - All Excel Files Initialised successfully.
+2017-10-04 14:08:57,060 - rootLogger - INFO - Param.properties file loaded successfully.
+2017-10-04 14:08:57,060 - rootLogger - INFO - Objects.properties file loaded successfully.
+2017-10-04 14:08:57,060 - rootLogger - INFO - SuiteECCCase8_Neuberger2 : Execution started.
+2017-10-04 14:08:59,287 - rootLogger - INFO - Chrome Driver Instance loaded successfully.
+2017-10-04 14:09:10,118 - rootLogger - INFO - Logged in
+2017-10-04 14:09:11,023 - rootLogger - INFO - Selected Statement (2007 to older)
+2017-10-04 14:09:16,163 - rootLogger - INFO - Selected 'View Statements'
+2017-10-04 14:09:29,116 - rootLogger - INFO - Statement Lists are displayed. Click on one of the statement
+2017-10-04 14:09:45,040 - rootLogger - INFO - PDF can be opened. As expected
+2017-10-04 14:09:45,463 - rootLogger - INFO - 
+Screenshot is captured and stored in yourC:\InstallVerificationReports\04-Oct-2017__01_59_22PM_PRODReport\screenshots\SuiteECCCase8_Neuberger2_1_ViewStatement_04-Oct-2017__02_09_45PM.jpg
+2017-10-04 14:09:45,463 - rootLogger - INFO - PDF's content is correct. As expected
+2017-10-04 14:09:45,463 - rootLogger - INFO - SuiteECCCase8_Neuberger2 : Reporting test data set line 1 as PASS In excel.
+2017-10-04 14:09:46,570 - rootLogger - INFO - SuiteECCCase8_Neuberger2 : Reporting test case as PASS In excel.
+2017-10-04 14:09:46,570 - rootLogger - INFO - All Excel Files Initialised successfully.
+2017-10-04 14:09:46,570 - rootLogger - INFO - Param.properties file loaded successfully.
+2017-10-04 14:09:46,570 - rootLogger - INFO - Objects.properties file loaded successfully.
+2017-10-04 14:09:46,586 - rootLogger - INFO - SuiteECCCase9_TheHartford : Execution started.
+2017-10-04 14:09:49,009 - rootLogger - INFO - Chrome Driver Instance loaded successfully.
+2017-10-04 14:09:59,461 - rootLogger - INFO - Logged in
+2017-10-04 14:10:00,211 - rootLogger - INFO - Selected TRAC
+2017-10-04 14:10:00,734 - rootLogger - INFO - Selected 'View Statements'
+2017-10-04 14:10:04,912 - rootLogger - INFO - Statement Lists are displayed. Click on one of the statement
+2017-10-04 14:10:16,618 - rootLogger - INFO - PDF can be opened. As expected
+2017-10-04 14:10:17,008 - rootLogger - INFO - 
+Screenshot is captured and stored in yourC:\InstallVerificationReports\04-Oct-2017__01_59_22PM_PRODReport\screenshots\SuiteECCCase9_TheHartford_1_ViewStatement_04-Oct-2017__02_10_16PM.jpg
+2017-10-04 14:10:17,008 - rootLogger - INFO - PDF's content is correct. As expected
+2017-10-04 14:10:17,528 - rootLogger - INFO - SuiteECCCase9_TheHartford : Reporting test data set line 1 as PASS In excel.
+2017-10-04 14:10:18,727 - rootLogger - INFO - SuiteECCCase9_TheHartford : Reporting test case as PASS In excel.
+2017-10-04 14:10:18,727 - rootLogger - INFO - All Excel Files Initialised successfully.
+2017-10-04 14:10:18,727 - rootLogger - INFO - Param.properties file loaded successfully.
+2017-10-04 14:10:18,727 - rootLogger - INFO - Objects.properties file loaded successfully.
+2017-10-04 14:10:18,743 - rootLogger - INFO - SuiteECCCase10_Golden1 : Execution started.
+2017-10-04 14:10:22,258 - rootLogger - INFO - Chrome Driver Instance loaded successfully.
+2017-10-04 14:10:27,862 - rootLogger - INFO - Logged in
+2017-10-04 14:10:28,609 - rootLogger - INFO - Selected Statements (CeVP Version)
+2017-10-04 14:10:29,086 - rootLogger - INFO - Selected 'View Statements'
+2017-10-04 14:10:29,490 - rootLogger - INFO - SSN Entered. Radial button is Enabled Only
+2017-10-04 14:10:33,470 - rootLogger - INFO - Statement Lists are displayed. Click on one of the statement
+2017-10-04 14:10:45,993 - rootLogger - INFO - PDF can be opened. As expected
+2017-10-04 14:10:46,373 - rootLogger - INFO - 
+Screenshot is captured and stored in yourC:\InstallVerificationReports\04-Oct-2017__01_59_22PM_PRODReport\screenshots\SuiteECCCase10_Golden1_1_ViewStatement_04-Oct-2017__02_10_46PM.jpg
+2017-10-04 14:10:46,373 - rootLogger - INFO - PDF's content is correct. As expected
+2017-10-04 14:10:46,373 - rootLogger - INFO - SuiteECCCase10_Golden1 : Reporting test data set line 1 as PASS In excel.
+2017-10-04 14:10:47,434 - rootLogger - INFO - SuiteECCCase10_Golden1 : Reporting test case as PASS In excel.
+2017-10-04 14:10:47,434 - rootLogger - INFO - All Excel Files Initialised successfully.
+2017-10-04 14:10:47,434 - rootLogger - INFO - Param.properties file loaded successfully.
+2017-10-04 14:10:47,434 - rootLogger - INFO - Objects.properties file loaded successfully.
+2017-10-04 14:10:47,434 - rootLogger - INFO - SuiteECCCase11_ACI_EPSIIAPDF : Execution started.
+2017-10-04 14:10:50,095 - rootLogger - INFO - Chrome Driver Instance loaded successfully.
+2017-10-04 14:10:59,225 - rootLogger - INFO - Logged in
+2017-10-04 14:11:00,042 - rootLogger - INFO - Selected Tax
+2017-10-04 14:11:00,517 - rootLogger - INFO - Selected 'View Tax Forms'
+2017-10-04 14:11:11,987 - rootLogger - INFO - Statement Lists are displayed. Click on one of the statement
+2017-10-04 14:11:25,092 - rootLogger - INFO - PDF can be opened. As expected
+2017-10-04 14:11:25,454 - rootLogger - INFO - 
+Screenshot is captured and stored in yourC:\InstallVerificationReports\04-Oct-2017__01_59_22PM_PRODReport\screenshots\SuiteECCCase11_ACI_EPSIIAPDF_1_ViewStatement_04-Oct-2017__02_11_25PM.jpg
+2017-10-04 14:11:25,454 - rootLogger - INFO - PDF's content is correct. As expected
+2017-10-04 14:11:25,473 - rootLogger - INFO - Clickd browser Back button.
+2017-10-04 14:11:25,984 - rootLogger - INFO - Clicked Logoff.
+2017-10-04 14:11:36,045 - rootLogger - INFO - SuiteECCCase11_ACI_EPSIIAPDF : Reporting test data set line 1 as PASS In excel.
+2017-10-04 14:11:37,139 - rootLogger - INFO - SuiteECCCase11_ACI_EPSIIAPDF : Reporting test case as PASS In excel.
+2017-10-04 14:11:37,139 - rootLogger - INFO - All Excel Files Initialised successfully.
+2017-10-04 14:11:37,139 - rootLogger - INFO - Param.properties file loaded successfully.
+2017-10-04 14:11:37,139 - rootLogger - INFO - Objects.properties file loaded successfully.
+2017-10-04 14:11:37,139 - rootLogger - INFO - SuiteECCCase12_ACI : Execution started.
+2017-10-04 14:11:39,346 - rootLogger - INFO - Chrome Driver Instance loaded successfully.
+2017-10-04 14:11:53,180 - rootLogger - INFO - Logged in
+2017-10-04 14:11:57,764 - rootLogger - INFO - Selected Statements
+2017-10-04 14:11:58,566 - rootLogger - INFO - Selected Statements again
+2017-10-04 14:11:59,055 - rootLogger - INFO - Selected View Statements
+2017-10-04 14:12:13,316 - rootLogger - INFO - Statement Lists are displayed. Click on one of the statement
+2017-10-04 14:12:30,764 - rootLogger - INFO - PDF can be opened. As expected
+2017-10-04 14:12:41,270 - rootLogger - INFO - PDF can be opened. As expected
+2017-10-04 14:12:41,631 - rootLogger - INFO - 
+Screenshot is captured and stored in yourC:\InstallVerificationReports\04-Oct-2017__01_59_22PM_PRODReport\screenshots\SuiteECCCase12_ACI_1_ViewStatement_04-Oct-2017__02_12_41PM.jpg
+2017-10-04 14:12:41,631 - rootLogger - INFO - PDF's content is correct. As expected
+2017-10-04 14:12:41,631 - rootLogger - INFO - SuiteECCCase12_ACI : Reporting test data set line 1 as PASS In excel.
+2017-10-04 14:12:42,754 - rootLogger - INFO - SuiteECCCase12_ACI : Reporting test case as PASS In excel.
+2017-10-04 14:12:42,754 - rootLogger - INFO - All Excel Files Initialised successfully.
+2017-10-04 14:12:42,754 - rootLogger - INFO - Param.properties file loaded successfully.
+2017-10-04 14:12:42,754 - rootLogger - INFO - Objects.properties file loaded successfully.
+2017-10-04 14:12:42,754 - rootLogger - INFO - SuiteECCCase13_MFS : Execution started.
+2017-10-04 14:12:46,123 - rootLogger - INFO - Chrome Driver Instance loaded successfully.
+2017-10-04 14:13:00,069 - rootLogger - INFO - Logged in
+2017-10-04 14:13:01,088 - rootLogger - INFO - Selected Statements
+2017-10-04 14:13:01,892 - rootLogger - INFO - Selected View Statements
+2017-10-04 14:13:04,973 - rootLogger - INFO - Statement Lists are displayed. Click on one of the statement
+2017-10-04 14:13:23,450 - rootLogger - INFO - PDF can be opened. As expected
+2017-10-04 14:13:23,804 - rootLogger - INFO - 
+Screenshot is captured and stored in yourC:\InstallVerificationReports\04-Oct-2017__01_59_22PM_PRODReport\screenshots\SuiteECCCase13_MFS_1_ViewStatement_04-Oct-2017__02_13_23PM.jpg
+2017-10-04 14:13:23,804 - rootLogger - INFO - PDF's content is correct. As expected
+2017-10-04 14:13:23,804 - rootLogger - INFO - SuiteECCCase13_MFS : Reporting test data set line 1 as PASS In excel.
+2017-10-04 14:13:24,865 - rootLogger - INFO - SuiteECCCase13_MFS : Reporting test case as PASS In excel.
+2017-10-04 14:13:24,865 - rootLogger - INFO - All Excel Files Initialised successfully.
+2017-10-04 14:13:24,865 - rootLogger - INFO - Param.properties file loaded successfully.
+2017-10-04 14:13:24,865 - rootLogger - INFO - Objects.properties file loaded successfully.
+2017-10-04 14:13:24,865 - rootLogger - INFO - SuiteECCCase14_Ariel : Execution started.
+2017-10-04 14:13:28,059 - rootLogger - INFO - Chrome Driver Instance loaded successfully.
+2017-10-04 14:13:38,385 - rootLogger - INFO - Logged in
+2017-10-04 14:13:39,250 - rootLogger - INFO - Selected Statements
+2017-10-04 14:13:39,720 - rootLogger - INFO - Selected View Statements
+2017-10-04 14:13:43,436 - rootLogger - INFO - Statement Lists are displayed. Click on one of the statement
+2017-10-04 14:13:56,061 - rootLogger - INFO - PDF can be opened. As expected
+2017-10-04 14:13:56,424 - rootLogger - INFO - 
+Screenshot is captured and stored in yourC:\InstallVerificationReports\04-Oct-2017__01_59_22PM_PRODReport\screenshots\SuiteECCCase14_Ariel_1_ViewStatement_04-Oct-2017__02_13_56PM.jpg
+2017-10-04 14:13:56,424 - rootLogger - INFO - PDF's content is correct. As expected
+2017-10-04 14:13:56,424 - rootLogger - INFO - SuiteECCCase14_Ariel : Reporting test data set line 1 as PASS In excel.
+2017-10-04 14:13:57,501 - rootLogger - INFO - SuiteECCCase14_Ariel : Reporting test case as PASS In excel.
+2017-10-04 14:13:57,516 - rootLogger - INFO - All Excel Files Initialised successfully.
+2017-10-04 14:13:57,516 - rootLogger - INFO - Param.properties file loaded successfully.
+2017-10-04 14:13:57,516 - rootLogger - INFO - Objects.properties file loaded successfully.
+2017-10-04 14:13:57,516 - rootLogger - INFO - SuiteECCCase15_Columbia : Execution started.
+2017-10-04 14:13:59,940 - rootLogger - INFO - Chrome Driver Instance loaded successfully.
+2017-10-04 14:14:09,760 - rootLogger - INFO - Logged in
+2017-10-04 14:14:10,665 - rootLogger - INFO - Selected Statements
+2017-10-04 14:14:11,313 - rootLogger - INFO - Selected View Statements
+2017-10-04 14:14:11,639 - rootLogger - INFO - SSN Entered.
+2017-10-04 14:14:27,773 - rootLogger - INFO - Statement Lists are displayed. Click on one of the statement
+2017-10-04 14:14:40,394 - rootLogger - INFO - PDF can be opened. As expected
+2017-10-04 14:14:40,757 - rootLogger - INFO - 
+Screenshot is captured and stored in yourC:\InstallVerificationReports\04-Oct-2017__01_59_22PM_PRODReport\screenshots\SuiteECCCase15_Columbia_1_ViewStatement_04-Oct-2017__02_14_40PM.jpg
+2017-10-04 14:14:40,757 - rootLogger - INFO - PDF's content is correct. As expected
+2017-10-04 14:14:40,757 - rootLogger - INFO - SuiteECCCase15_Columbia : Reporting test data set line 1 as PASS In excel.
+2017-10-04 14:14:41,818 - rootLogger - INFO - SuiteECCCase15_Columbia : Reporting test case as PASS In excel.
+2017-10-04 14:14:41,818 - rootLogger - INFO - All Excel Files Initialised successfully.
+2017-10-04 14:14:41,818 - rootLogger - INFO - Param.properties file loaded successfully.
+2017-10-04 14:14:41,818 - rootLogger - INFO - Objects.properties file loaded successfully.
+2017-10-04 14:14:41,818 - rootLogger - INFO - SuiteECCCase16_Calvert : Execution started.
+2017-10-04 14:14:46,146 - rootLogger - INFO - Chrome Driver Instance loaded successfully.
+2017-10-04 14:14:55,474 - rootLogger - INFO - Logged in
+2017-10-04 14:14:56,429 - rootLogger - INFO - Selected TRAC
+2017-10-04 14:14:57,130 - rootLogger - INFO - Selected 'View Statements'
+2017-10-04 14:15:00,918 - rootLogger - INFO - Statment Lists are displayed. Click on one of the statement
+2017-10-04 14:15:14,202 - rootLogger - INFO - 
+Screenshot is captured and stored in yourC:\InstallVerificationReports\04-Oct-2017__01_59_22PM_PRODReport\screenshots\SuiteECCCase16_Calvert_1_ViewStatement_04-Oct-2017__02_15_14PM.jpg
+2017-10-04 14:15:14,202 - rootLogger - INFO - PDF can be opened.
+2017-10-04 14:15:14,301 - rootLogger - INFO - Logging off
+2017-10-04 14:15:15,927 - rootLogger - INFO - SuiteECCCase16_Calvert : Reporting test data set line 1 as PASS In excel.
+2017-10-04 14:15:17,181 - rootLogger - INFO - SuiteECCCase16_Calvert : Reporting test case as PASS In excel.
+2017-10-04 14:15:17,415 - rootLogger - INFO - All Excel Files Initialised successfully.
+2017-10-04 14:15:17,665 - rootLogger - INFO - Param.properties file loaded successfully.
+2017-10-04 14:15:17,665 - rootLogger - INFO - Objects.properties file loaded successfully.
+2017-10-04 14:15:17,665 - rootLogger - INFO - Execution started for SuitFanWebBase.
+2017-10-04 14:15:17,681 - rootLogger - INFO - All Excel Files Initialised successfully.
+2017-10-04 14:15:17,681 - rootLogger - INFO - Param.properties file loaded successfully.
+2017-10-04 14:15:17,681 - rootLogger - INFO - Objects.properties file loaded successfully.
+2017-10-04 14:15:17,681 - rootLogger - INFO - SuiteFanWebCase1_Royce : Execution started.
+2017-10-04 14:15:25,499 - rootLogger - INFO - Chrome Driver Instance loaded successfully.
+2017-10-04 14:15:41,450 - rootLogger - INFO - Logged in
+2017-10-04 14:15:51,569 - rootLogger - INFO - Clicked dropdown Portfolio Options
+2017-10-04 14:15:54,974 - rootLogger - INFO - Selected Confirmation Statements
+2017-10-04 14:15:55,040 - rootLogger - INFO - Statement Lists are displayed. Click on one of the statement
+2017-10-04 14:16:07,207 - rootLogger - INFO - PDF can be opened. As expected
+2017-10-04 14:16:07,620 - rootLogger - INFO - 
+Screenshot is captured and stored in yourC:\InstallVerificationReports\04-Oct-2017__01_59_22PM_PRODReport\screenshots\SuiteFanWebCase1_Royce_1_View_ConfirmationStatement_04-Oct-2017__02_16_07PM.jpg
+2017-10-04 14:16:07,620 - rootLogger - INFO - PDF's content is correct. As expected
+2017-10-04 14:16:07,973 - rootLogger - INFO - Clickd browser Back button.
+2017-10-04 14:16:19,980 - rootLogger - INFO - Clicked dropdown Portfolio Options
+2017-10-04 14:16:23,274 - rootLogger - INFO - Clicked Periodic Statements
+2017-10-04 14:16:23,366 - rootLogger - INFO - Statement Lists are displayed. Click on one of the statement
+2017-10-04 14:16:35,782 - rootLogger - INFO - PDF can be opened. As expected
+2017-10-04 14:16:36,128 - rootLogger - INFO - 
+Screenshot is captured and stored in yourC:\InstallVerificationReports\04-Oct-2017__01_59_22PM_PRODReport\screenshots\SuiteFanWebCase1_Royce_1_View_PeriodicStatement_04-Oct-2017__02_16_36PM.jpg
+2017-10-04 14:16:36,128 - rootLogger - INFO - PDF's content is correct. As expected
+2017-10-04 14:16:36,477 - rootLogger - INFO - Clicked browser's Back button
+2017-10-04 14:16:37,508 - rootLogger - INFO - Clicked on the 'Account Access Log Out' button
+2017-10-04 14:16:37,508 - rootLogger - INFO - SuiteFanWebCase1_Royce : Reporting test data set line 1 as PASS In excel.
+2017-10-04 14:16:38,673 - rootLogger - INFO - SuiteFanWebCase1_Royce : Reporting test case as PASS In excel.
+2017-10-04 14:16:38,673 - rootLogger - INFO - All Excel Files Initialised successfully.
+2017-10-04 14:16:38,673 - rootLogger - INFO - Param.properties file loaded successfully.
+2017-10-04 14:16:38,673 - rootLogger - INFO - Objects.properties file loaded successfully.
+2017-10-04 14:16:38,673 - rootLogger - INFO - Execution started for SuitCSRBase.
+2017-10-04 14:16:38,689 - rootLogger - INFO - All Excel Files Initialised successfully.
+2017-10-04 14:16:38,689 - rootLogger - INFO - Param.properties file loaded successfully.
+2017-10-04 14:16:38,689 - rootLogger - INFO - Objects.properties file loaded successfully.
+2017-10-04 14:16:38,689 - rootLogger - INFO - SuiteVisionCase1_AFS : Execution started.
+2017-10-04 14:16:41,134 - rootLogger - INFO - Chrome Driver Instance loaded successfully.
+2017-10-04 14:17:52,835 - rootLogger - INFO - SuiteVisionCase1_AFS : Reporting test data set line 1 as PASS In excel.
+2017-10-04 14:17:53,959 - rootLogger - INFO - SuiteVisionCase1_AFS : Reporting test case as PASS In excel.
+2017-10-04 14:17:53,959 - rootLogger - INFO - All Excel Files Initialised successfully.
+2017-10-04 14:17:53,959 - rootLogger - INFO - Param.properties file loaded successfully.
+2017-10-04 14:17:53,959 - rootLogger - INFO - Objects.properties file loaded successfully.
+2017-10-04 14:17:53,959 - rootLogger - INFO - SuiteVisionCase2_MFS : Execution started.
+2017-10-04 14:17:56,166 - rootLogger - INFO - Chrome Driver Instance loaded successfully.
+2017-10-04 14:19:08,265 - rootLogger - INFO - SuiteVisionCase2_MFS : Reporting test data set line 1 as PASS In excel.
+2017-10-04 14:19:09,373 - rootLogger - INFO - SuiteVisionCase2_MFS : Reporting test case as PASS In excel.
+2017-10-04 14:19:09,373 - rootLogger - INFO - All Excel Files Initialised successfully.
+2017-10-04 14:19:09,373 - rootLogger - INFO - Param.properties file loaded successfully.
+2017-10-04 14:19:09,373 - rootLogger - INFO - Objects.properties file loaded successfully.
+2017-10-04 14:19:09,373 - rootLogger - INFO - SuiteVisionCase3_WaddellReed : Execution started.
+2017-10-04 14:19:11,552 - rootLogger - INFO - Chrome Driver Instance loaded successfully.
+2017-10-04 14:20:22,938 - rootLogger - INFO - SuiteVisionCase3_WaddellReed : Reporting test data set line 1 as PASS In excel.
+2017-10-04 14:20:24,046 - rootLogger - INFO - SuiteVisionCase3_WaddellReed : Reporting test case as PASS In excel.
